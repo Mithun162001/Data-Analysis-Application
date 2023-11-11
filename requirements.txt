@@ -2,5 +2,4 @@ streamlit
 pandas
 plotly
 numpy
-tkinter
 libtk8.6
