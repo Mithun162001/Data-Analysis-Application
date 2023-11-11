@@ -2,4 +2,3 @@ streamlit
 pandas
 plotly
 numpy
-libtk8.6
