@@ -3,4 +3,4 @@ pandas
 plotly
 numpy
 tkinter
-libtk==8.6
+libtk8.6
