@@ -2,5 +2,4 @@ streamlit
 pandas
 plotly-express
 numpy
-base64
 
